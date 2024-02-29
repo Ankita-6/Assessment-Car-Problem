@@ -1,0 +1,7 @@
+C:\Users\Ankita S\source\repos\Assessment_Car_Problem\Assessment_Car_Problem\bin\Debug\Assessment_Car_Problem.exe.config
+C:\Users\Ankita S\source\repos\Assessment_Car_Problem\Assessment_Car_Problem\bin\Debug\Assessment_Car_Problem.exe
+C:\Users\Ankita S\source\repos\Assessment_Car_Problem\Assessment_Car_Problem\bin\Debug\Assessment_Car_Problem.pdb
+C:\Users\Ankita S\source\repos\Assessment_Car_Problem\Assessment_Car_Problem\obj\Debug\Assessment_Car_Problem.csproj.AssemblyReference.cache
+C:\Users\Ankita S\source\repos\Assessment_Car_Problem\Assessment_Car_Problem\obj\Debug\Assessment_Car_Problem.csproj.CoreCompileInputs.cache
+C:\Users\Ankita S\source\repos\Assessment_Car_Problem\Assessment_Car_Problem\obj\Debug\Assessment_Car_Problem.exe
+C:\Users\Ankita S\source\repos\Assessment_Car_Problem\Assessment_Car_Problem\obj\Debug\Assessment_Car_Problem.pdb
